@@ -18,56 +18,56 @@
  */
 
 /**
- * Shortcut to the Lightsome::get() method.
+ * Shortcut to the Som::get() method.
  *
  * @param string $route
  * @param mixed Callback $function
  */
 function get($route, $function)
 {
-    Lightsome::get($route, $function);
+    Some::get($route, $function);
 }
 
 /**
- * Shortcut to the Lightsome::post() method.
+ * Shortcut to the Some::post() method.
  *
  * @param string $route
  * @param mixed Callback $function
  */
 function post($route, $function)
 {
-    Lightsome::post($route, $function);
+    Som::post($route, $function);
 }
 
 /**
- * Shortcut to the Lightsome::put() method.
+ * Shortcut to the Som::put() method.
  *
  * @param string $route
  * @param mixed Callback $function
  */
 function put($route, $function)
 {
-    Lightsome::put($route, $function);
+    Som::put($route, $function);
 }
 
 /**
- * Shortcut to the Lightsome::patch() method.
+ * Shortcut to the Som::patch() method.
  *
  * @param string $route
  * @param mixed Callback $function
  */
 function patch($route, $function)
 {
-    Lightsome::patch($route, $function);
+    Som::patch($route, $function);
 }
 
 /**
- * Shortcut to the Lightsome::delete() method.
+ * Shortcut to the Som::delete() method.
  *
  * @param string $route
  * @param mixed Callback $function
  */
 function delete($route, $function)
 {
-    Lightsome::delete($route, $function);
+    Som::delete($route, $function);
 }

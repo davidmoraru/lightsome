@@ -16,11 +16,11 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with Lightsome. If not, see <http://www.gnu.org/licenses/>.
  */
-
 /**
  * Lightsome is a tiny PHP router.
  */
-class Lightsome
+namespace Light;
+class Some
 {
     private static $requestUri;
     public static $routeProccessed = false;

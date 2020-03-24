@@ -12,7 +12,10 @@
     ],
     "autoload": {
         "classmap": ["src/Lightsome.php"],
-        "files": ["src/functions.php"]
+        "files": ["src/functions.php"],
+        "psr-4": {
+            "Light\\": "src/"
+        }
     },
     "require": {
         "php": ">=5.6.0"
