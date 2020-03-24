@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "classmap": ["src/Some.php"],
-        "files": ["src/functions.php", "src/Some.php"],
+        "files": ["src/functions.php"],
         "psr-4": {
             "Light\\": "src/"
         }
