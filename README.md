@@ -6,10 +6,10 @@ Requirements
 
 - PHP 5.6+
 
-Example
+Important
 -------
-
-Nanite supports `GET`, `POST`, `PUT`, `PATCH` and `DELETE` requests.
+This was originaly downloaded from nirix/nanite, I liked how small it is.
+Lightsome supports `GET`, `POST`, `PUT`, `PATCH` and `DELETE` requests.
 
     <?php
     require 'src/Light.php';
