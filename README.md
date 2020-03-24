@@ -12,7 +12,7 @@ This was originaly downloaded from nirix/nanite, I liked how small it is.
 Lightsome supports `GET`, `POST`, `PUT`, `PATCH` and `DELETE` requests.
 
     <?php
-    require 'src/Light.php';
+    require 'src/Lightsome.php';
     require 'src/functions.php';
 
     // Use / for the main/index page.
