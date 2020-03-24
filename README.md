@@ -1,4 +1,4 @@
-Lightsome
+Lightsome  Micro PHP Framework
 ======
 
 Requirements
